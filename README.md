@@ -24,7 +24,7 @@ In Berlin we are in 3, all others team members hacked with us from Minsk, Belaru
 
 ## Features that we have done
 
-### Android
+### Android browser inside the Multy
 ![Step 1](https://github.com/Multy-io/ethberlin-multy/blob/master/web3_2-1.png)
 ![Step 2](https://github.com/Multy-io/ethberlin-multy/blob/master/web3_2-3.png)
 ![Step 3](https://github.com/Multy-io/ethberlin-multy/blob/master/web3_2-4.png)
@@ -32,6 +32,7 @@ In Berlin we are in 3, all others team members hacked with us from Minsk, Belaru
 ![Step 5](https://github.com/Multy-io/ethberlin-multy/blob/master/web3_2-6.png)
 ![Step 6](https://github.com/Multy-io/ethberlin-multy/blob/master/web3_2-10.png)
 
-### IOS
+### IOS import ethereum wallet and GNOSIS smart contract
+![Step 1](https://github.com/Multy-io/ethberlin-multy/blob/master/web3_2-1.png)
 
 
