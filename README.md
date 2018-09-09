@@ -33,6 +33,12 @@ In Berlin we are in 3, all others team members hacked with us from Minsk, Belaru
 ![Step 6](https://github.com/Multy-io/ethberlin-multy/blob/master/web3_2-10.png)
 
 ### IOS import ethereum wallet and GNOSIS smart contract
-![Step 1](https://github.com/Multy-io/ethberlin-multy/blob/master/web3_2-1.png)
+![Step 1](https://github.com/Multy-io/ethberlin-multy/blob/master/1.jpg)
+![Step 2](https://github.com/Multy-io/ethberlin-multy/blob/master/2.jpg)
+![Step 3](https://github.com/Multy-io/ethberlin-multy/blob/master/3.jpg)
+![Step 4](https://github.com/Multy-io/ethberlin-multy/blob/master/4.jpg)
+![Step 5](https://github.com/Multy-io/ethberlin-multy/blob/master/5.jpg)
+![Step 6](https://github.com/Multy-io/ethberlin-multy/blob/master/6.jpg)
+![Step 7](https://github.com/Multy-io/ethberlin-multy/blob/master/7.jpg)
 
 
