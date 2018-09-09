@@ -3,6 +3,10 @@ Multy team hack results during the ethBerlin hackathon
 
 ## Disclaimer
 
+We are existing project [Multy](http://multy.io)
+During the hackaton we just implemented 2 featuers to our application.
+In Berlin we are in 3, all others team members hacked with us from Minsk, Belarus.
+
 
 
 
