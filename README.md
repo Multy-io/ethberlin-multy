@@ -40,5 +40,7 @@ In Berlin we are in 3, all others team members hacked with us from Minsk, Belaru
 ![Step 5](https://github.com/Multy-io/ethberlin-multy/blob/master/5.jpg)
 ![Step 6](https://github.com/Multy-io/ethberlin-multy/blob/master/6.jpg)
 ![Step 7](https://github.com/Multy-io/ethberlin-multy/blob/master/7.jpg)
+![Step 8](https://github.com/Multy-io/ethberlin-multy/blob/master/8.jpg)
+![Step 9](https://github.com/Multy-io/ethberlin-multy/blob/master/9.jpg)
 
 
